@@ -14,13 +14,13 @@ author: Alex R.
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   HTML5/CSS3: 
   JS: 
   RUBY: 
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+  About Me: "aboutme"
  # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
