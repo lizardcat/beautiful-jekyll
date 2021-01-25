@@ -14,13 +14,11 @@ author: LizardCat
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  HTML5/CSS3: 
-  JS: 
-  RUBY: 
-  PHP:
+  Articles:
+  Guides:
   Resources:
     - Learn markdown: "https://www.markdowntutorial.com/"
-  About Me: "aboutme"
+  About: "aboutme"
  # Author's home: "https://deanattali.com"
 
 # --- Logo --- #
